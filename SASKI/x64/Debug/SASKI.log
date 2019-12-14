@@ -1,0 +1,70 @@
+﻿  Source.cpp
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(105,14): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(106,15): warning C4244: инициализация: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(119,39): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(119,32): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(170,36): warning C4244: =: преобразование "float" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(171,38): warning C4244: =: преобразование "float" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(173,50): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(173,31): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(215,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(215,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(219,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(219,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(223,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(223,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(226,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(226,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(261,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(261,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(265,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(265,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(269,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(269,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(272,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(272,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(277,56): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(277,37): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(281,56): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\SASKI\Source.cpp(281,37): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+  SASKI.vcxproj -> C:\Users\kroto\OneDrive\Рабочий стол\LEXASOSAT\SASKI\x64\Debug\SASKI.exe
